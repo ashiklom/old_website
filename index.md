@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home 
+---
+
 # Welcome!
 My name is Alexey Shiklomanov. I am a Ph.D. Geography student at the [Boston University Department of Earth and Environment](www.bu.edu/earth), advised by [Michael Dietze](people.bu.edu/dietze). Our lab is broadly interested in improving ecological forecasts, and we approach this problem through a variety of methods, including field work on forest demography, dynamic vegetation models, and remote sensing.
 
