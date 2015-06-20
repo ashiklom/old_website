@@ -1,9 +1,13 @@
 html {
-	background-color: blue;
+	background-color: black;
 }
 
-#heading h1 {
-    font-family: Times New Roman;
-    color: blue;
+h1 {
+    font-family: Arial;
+    color: white;
 }
 
+p {
+    font-family: Helvetica;
+    color: white;
+}
