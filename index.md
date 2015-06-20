@@ -1,13 +1,24 @@
----
-title: Home
-author: Alexey Shiklomanov
-date: Sat Jun 20 14:13:47 EDT 2015
----
+<!DOCTYPE html>
+<head>
+<title>Home</title>
+<link rel="stylesheet" href="common.css">
+<link rel="stylesheet" href="posts.css">
+</head>
+
+<div id="mainpagehead">
+# [Alexey Shiklomanov](/)
+</div>
+
+<div id="mainpagequote">
+<p class="quote">"Give a man a program, frustrate him for a day. Teach a man to program,
+    frustrate him for a lifetime."</p>
+<p class="author">--- Muhammad Waseem</p>
+</div>
 
 # Welcome!
 My name is Alexey Shiklomanov. I am a Ph.D. Geography student at the
-[Boston University Department of Earth and Environment](www.bu.edu/earth),
-advised by [Michael Dietze](people.bu.edu/dietze). Our lab is broadly
+[Boston University Department of Earth and Environment](http://www.bu.edu/earth),
+advised by [Michael Dietze](http://people.bu.edu/dietze). Our lab is broadly
 interested in improving ecological forecasts, and we approach this problem
 through a variety of methods, including field work on forest demography,
 dynamic vegetation models, and remote sensing.
