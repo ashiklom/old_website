@@ -1,0 +1,141 @@
+/* Common style file */
+html {
+	background-color: black;
+}
+
+#heading {
+	position: fixed;
+	display: block;
+	text-align: right;
+	right: 10px;
+	left: 60%;
+	font-size: 28pt;
+	font-family: Helvetica, Verdana, Arial;
+	color: white;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	line-height: 0.6em;
+	font-size: 28pt;
+	background-repeat: no-repeat;
+	background-size: 73px;
+	background-position: right;
+}	
+
+#heading h3 {
+	padding-right: 85px;
+}
+
+#heading.programming {
+	background-image: url("icon-programming.png");
+	}
+
+#heading.music {
+	background-image: url("icon-music.png");
+	}
+
+#heading.software {
+	background-image: url("icon-software.png");
+	}
+
+#heading.lue {
+	background-image: url("icon-lue.png");
+	}
+
+#heading h3.other {
+	padding-right: 10px;
+	}
+
+#banner {
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 130px;
+	color: white;
+	font-family: Helvetica, Verdana, Arial;
+	background-image: url("fire_banner.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: fixed;
+	display: block;
+	border-bottom-width: 5px;
+	border-bottom-style: ridge;
+	border-bottom-color: #4C0F00;
+	}
+
+#banner a {
+	color: white;
+	text-decoration: none;
+}
+
+#banner h1 {
+	text-transform: uppercase;
+	text-align: left;
+	border: 0;
+	margin: 20px 0 0 0;
+	padding: 0;
+	top: 3%;
+	left: 2%;
+	font-size: 32pt;
+	}
+
+#banner h2 {
+	border: 0;
+	margin: 0;
+	padding: 5px 0 0 0;
+	left: 2%;
+	font-size: 18pt;
+	}
+
+
+#post_content {
+	position: absolute;
+	display: block;
+	top: 135px;
+	left: 250px;
+	right: 250px;
+	bottom: 10px;
+	border-style: ridge;
+	border-width: 6px;
+	border-color: #4C0F00;
+	margin: 0;
+	padding: 0 3% 4% 3%;
+	background-color: black;
+	color: white;
+	overflow-y: scroll;
+	}
+
+#post_content h1 {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	padding-top: 3%;
+	font-style: Helvetica, Verdana, Arial;
+	}
+
+#post_content p, #post_content ul {
+	font-style: Helvetica, Verdana, Arial;
+	font-size: 14pt;
+	line-height: 1.6em;
+	}
+
+#post_content a:link {
+	color: white;
+	}
+
+#post_content a:hover {
+	color: white;
+	font-weight: bold;
+	}
+
+#post_content a:visited {
+	color: #CFCFCF;
+	}
+
+#post_content code {
+	font-size: 13pt;
+	line-height: 1.6em;
+	background-color: #222222;
+}
+	
