@@ -2,7 +2,6 @@
 <head>
 <title>Home</title>
 <link rel="stylesheet" href="common.css">
-<link rel="stylesheet" href="posts.css">
 </head>
 
 <div id="mainpagehead">

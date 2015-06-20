@@ -1,54 +1,9 @@
-/* Navigation bar style */
-
-.navigation {
-	position: fixed;
-	text-align: center;
-	top: 138px;
-	color: white;
-	font-family: Helvetica, Verdana, Arial;
-	font-size: 14pt;
-	padding: 0;
-	margin: 0;
+html {
+	background-color: white;
 }
 
-table.nav {
-	border-width: 5px;
-	border-style: ridge;
-	border-color: #4C0F00;
-	width: 240px;
+#heading {
+    font-family: Times New Roman;
+    color: blue;
 }
 
-table.nav td a{
-	display: block;
-	padding: 8% 0;
-	border-style: outset;
-	width=200px;
-	height=80px;
-/*	height: 100%;
-	width: 100%; */
-	text-decoration: none;
-	font-size: 16pt;
-}
-
-.navigation a:link, .navigation a:hover{
-	color: white;
-}
-
-table.nav td a:hover, table.nav td a:active {
-	background-color: #2B2B2B;
-	border-style: inset;
-}
-
-.navigation a:visited {
-	color: #CFCFCF;
-}
-
-#leftside {
-	left:0;
-	}
-
-#rightside {
-	right:0;
-}
-
-/* End navigation */
