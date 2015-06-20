@@ -2,7 +2,7 @@ html {
 	background-color: white;
 }
 
-#heading {
+#heading h1 {
     font-family: Times New Roman;
     color: blue;
 }
