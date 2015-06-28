@@ -1,0 +1,26 @@
+# Site settings
+title: Alexey Shiklomanov
+email: ashiklom@bu.edu
+description: > # this means to ignore newlines until "baseurl:"
+    My name is Alexey Shiklomanov. I am a Ph.D. Geography student at the
+    Boston University Department of Earth and Environment, advised by Michael 
+    Dietze. Our lab is broadly interested in improving ecological forecasts, 
+    and we approach this problem through a variety of methods, including field 
+    work on forest demography, dynamic vegetation models, and remote sensing.
+
+    My own research interests are in bridging the gap between the remote sensing 
+    and ecological communities. In particular, I am interested in developing 
+    methods to assimilate remote sensing observations into ecosystem models via 
+    radiative transfer models (RTMs). The tools I am developing are aimed at 
+    facilitating the use of radiative transfer models for simulating reflectance 
+    from different surfaces, as well as for efficient Bayesian inversion of these 
+    models.
+
+    Most of this work is housed in the `rtm` module within the PEcAn ecoinformatics 
+    toolbox.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "ashiklom.github.io" # the base hostname & protocol for your site
+github_username:  blowfish711
+
+# Build settings
+markdown: kramdown
